@@ -1,5 +1,8 @@
 _repo: Nether-Lochaber-The-Natural-History-Legends-and-Folk-lore-of-the-West-Highlands_56157
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56157-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Stewart, Alexander
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '33523'
     url: http://www.gutenberg.org/2009/agents/33523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56157#Nether-Lochaber-The-Natural-History-Legends-and-Folk-lore-of-the-West-Highlands
 gutenberg_issued: '2017-12-10'
 gutenberg_type: Text
 identifiers:
